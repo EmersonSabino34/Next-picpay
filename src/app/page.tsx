@@ -14,7 +14,6 @@ export default function Home() {
         </Link>
         <button className="text-white text-lg font-bold border w-full p-2 rounded-md">sair da conta</button>
       </div>
-
     </div>
 
   )
