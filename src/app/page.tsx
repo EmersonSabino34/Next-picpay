@@ -9,7 +9,6 @@ export default function Home() {
       </div>
       <div className="h-32 justify-center flex flex-col items-center w-full gap-2">
         <Link href="/login" className="hover:text-green-800 text-white duration-300 text-lg font-bold border hover:bg-white  w-full p-2 rounded-md flex justify-center items-center">
-        
         <button>acessar</button>
         </Link>
         <button className="text-white text-lg font-bold border w-full p-2 rounded-md">sair da conta</button>
