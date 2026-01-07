@@ -2,6 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
+    
     <div className="flex items-center justify-center flex-col h-screen bg-green-600 p-10">
       <div className="flex-1 flex items-center justify-center">
         <img width={300} src="transferir.png" alt="" />
