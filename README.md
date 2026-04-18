@@ -32,7 +32,6 @@ A tela contém:
 * **Tailwind CSS**
 * **JavaScript / TypeScript**
 
-
 ---
 
 ## ▶️ Como Executar o Projeto
