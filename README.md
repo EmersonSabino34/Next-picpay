@@ -2,6 +2,7 @@
 
 Este é um projeto **Next.js** simples que representa uma **tela inicial/home** com foco em navegação básica, ideal para estudos, protótipos ou início de aplicações web.
 
+
 ---
 
 ## 🚀 Funcionalidades
